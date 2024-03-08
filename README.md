@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @HabibUjjan.
+- 👀 I’m interested in exploring new technologies and coding.
+- 🌱 I’m currently learning Java Programming and Machine learning.
+- 💞️ I’m looking to collaborate on open-source projects related to AI or web development And Java Programming.
+- 📫 How to reach me: You can email me at habibullahujjan991@gamil.com or message me on LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an avid traveler and love immersing myself in different cultures, seeking inspiration for my next coding adventure!
