@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HabibUjjan.
+- 👋 Hi, I’m @Habib Ujjan.
 - 👀 I’m interested in exploring new technologies and coding.
 - 🌱 I’m currently learning Java Programming and Machine learning.
 - 💞️ I’m looking to collaborate on open-source projects related to AI or web development And Java Programming.
